@@ -28,6 +28,10 @@ class Food{
       background(washroom,550,500); 
   }
 
+  livingRoom(){
+    background(livingRoom, 550, 500)
+  }
+
     display(){
       var x = 70
       var y =120
